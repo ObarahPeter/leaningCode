@@ -1,2 +1,3 @@
 # leaningCode
-This is my code trend learning
+How to learn Coding
+
