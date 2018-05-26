@@ -1,3 +1,3 @@
-# leaningCode
+# leaningToCode
 How to learn Coding
 
